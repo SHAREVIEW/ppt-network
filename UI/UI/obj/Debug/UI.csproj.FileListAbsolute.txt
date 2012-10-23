@@ -1,0 +1,66 @@
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\UI.exe
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\UI.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\NET.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\Serials.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\Strategy.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\TCP.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\UDP.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\Serials.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\Strategy.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\TCP.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\UDP.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\NET.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.UI.resources
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.exe
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.pdb
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\IrisSkin2.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.MyUI.resources
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.PPTForm.resources
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\UI.csproj.ResolveComReference.cache
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\obj\Debug\Interop.VBIDE.dll
+D:\我的文件夹\Visual Studio 2008\Projects\UI\UI\bin\Debug\Interop.VBIDE.dll
+K:\UI\UI\obj\Debug\Interop.VBIDE.dll
+K:\UI\UI\obj\Debug\UI.csproj.ResolveComReference.cache
+K:\UI\UI\obj\Debug\UI.exe
+K:\UI\UI\obj\Debug\UI.pdb
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\Interop.VBIDE.dll
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.exe
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.pdb
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\UI.exe
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\UI.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\Serials.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\Strategy.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\TCP.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\UDP.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\NET.pdb
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\Interop.VBIDE.dll
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.MyUI.resources
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.UI.resources
+C:\Users\Kaho\Desktop\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\UI\UI\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\Interop.VBIDE.dll
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.exe
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\UI.exe
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\UI.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\Strategy.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\UDP.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\TCP.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\Serials.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\NET.pdb
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\bin\Debug\Interop.VBIDE.dll
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.MyUI.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.UI.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache

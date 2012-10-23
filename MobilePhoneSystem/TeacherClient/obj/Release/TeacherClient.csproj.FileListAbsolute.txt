@@ -1,0 +1,62 @@
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\ResolveAssemblyReference.cache
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Teacher.resources
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Properties.Resources.resources
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.StudentList.resources
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.csproj.GenerateResource.Cache
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.exe
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.pdb
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.dll
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.xml
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.exe
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.pdb
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.dll
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.xml
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.pdb
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.xml
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Teacher.resources
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Properties.Resources.resources
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.StudentList.resources
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月27号 5点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.pdb
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.exe
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.pdb
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.dll
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.xml
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Teacher.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Properties.Resources.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.StudentList.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.csproj.GenerateResource.Cache
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.exe
+C:\Users\ZJ\Desktop\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.pdb
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.pdb
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.xml
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Teacher.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Properties.Resources.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.StudentList.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.pdb
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\bin\Release\TeacherClient.pdb
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\bin\Release\Resco.ImageBox.CF3.xml
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Teacher.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.Properties.Resources.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.StudentList.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.exe
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\TeacherClient\obj\Release\TeacherClient.pdb

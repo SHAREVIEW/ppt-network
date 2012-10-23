@@ -1,0 +1,16 @@
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\Interop.VBIDE.dll
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\UI.csproj.ResolveComReference.cache
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\UI.MyUI.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\UI.Properties.Resources.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\UI.UI.resources
+C:\Users\Kaho\Desktop\创新杯提交代码\UI\UI\obj\Release\UI.csproj.GenerateResource.Cache
+K:\创新杯提交代码\UI\UI\obj\Release\Interop.VBIDE.dll
+K:\创新杯提交代码\UI\UI\obj\Release\UI.csproj.ResolveComReference.cache
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\Interop.VBIDE.dll
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\UI.csproj.ResolveComReference.cache
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\ResolveAssemblyReference.cache
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\UI.MyUI.resources
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\UI.Properties.Resources.resources
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\UI.UI.resources
+E:\资料\存档\HnuSeeking\开源软件创新大赛\开源软件大赛\湖南大学—HnuSeeking—刘鹏飞—15874261800\03项目源代码\UI\UI\obj\Release\UI.csproj.GenerateResource.Cache

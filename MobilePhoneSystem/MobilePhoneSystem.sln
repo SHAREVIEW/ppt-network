@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherClient", "TeacherClient\TeacherClient.csproj", "{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentClient", "StudentClient\StudentClient.csproj", "{4FF96255-2FE6-45B9-9061-4221EA1578B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8E6DC0-0AAD-4597-8A30-BB707C239ECB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF96255-2FE6-45B9-9061-4221EA1578B7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

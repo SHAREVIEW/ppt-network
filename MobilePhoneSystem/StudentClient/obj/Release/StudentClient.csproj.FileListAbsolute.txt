@@ -1,0 +1,46 @@
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.exe
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.pdb
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.dll
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.xml
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\ResolveAssemblyReference.cache
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Paper.resources
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Properties.Resources.resources
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.csproj.GenerateResource.Cache
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.exe
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.pdb
+D:\Workplace\Visual Studio 2008\Projects\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentClient.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentClient.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Paper.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Properties.Resources.resources
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.csproj.GenerateResource.Cache
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.exe
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.pdb
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.exe
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.pdb
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\ZJ\Desktop\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentCardForm.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.exe
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.pdb
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentCardForm.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentClient.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Paper.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Properties.Resources.resources
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.exe
+C:\Users\Kaho\Desktop\9月28号 4点 17\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.pdb
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.exe
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\bin\Release\StudentClient.pdb
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentCardForm.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.StudentClient.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.Properties.Resources.resources
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.csproj.GenerateResource.Cache
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.exe
+C:\Users\Kaho\Desktop\9月29号20点\MobilePhoneSystem\StudentClient\obj\Release\StudentClient.pdb
