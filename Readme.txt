@@ -1,6 +1,7 @@
 P2P网络分布式教学数据采集共享平台
 
-开发者：@kaholai  http://weibo.com/kaholai
+开发者：
+		@kaholai  http://weibo.com/kaholai
 		@郑杰1900 http://weibo.com/u/2252258645
 		prafulliu http://weibo.com/prafulliu
 		
