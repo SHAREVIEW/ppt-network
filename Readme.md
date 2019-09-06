@@ -1,3 +1,12 @@
+
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+
+EXAMPLE #19
+
+
+
+
 #P2P网络分布式教学数据采集共享平台
 
 ##1. 开发者：
